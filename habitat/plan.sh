@@ -1,5 +1,5 @@
 pkg_name=sample-node-application
-pkg_origin=node-application1
+pkg_origin=node-app-demo
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
